@@ -1,6 +1,6 @@
 ## Hi, I'm Lorenzo 👋
 
-Full Stack Developer & Tech Lead at **Rubika Networking** · La Plata, Argentina · Remote
+Full Stack Developer & Tech Lead at **Rubika Networking** · Buenos Aires, Argentina · Remote
 
 - I build complete products: Flutter apps for iOS, Android and web, Serverpod backends and back-offices.
 - I lead the development of **Salir Adelante**, a marketplace app that went from first designs to production.
